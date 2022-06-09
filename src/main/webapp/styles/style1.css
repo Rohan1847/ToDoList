@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+
+body
+{
+	margin:0px;
+	padding:0px;
+	font-family:sans-serif;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(../Images/kelly-sikkema-9OGNpJPVMZ8-unsplash.jpg);
+	background-size:cover;
+}
+
+.form-box
+{
+	width:380px;
+	height:420px;
+	background-color:rgba(0, 40, 100, 0.4);
+	margin: 6% auto;
+	padding:25px;
+	position:relative;
+	border-radius:30px;
+	box-shadow: 0 0 20px 9px black;
+}

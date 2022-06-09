@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-image: linear-gradient(to right, rgba(105,105,105,0), rgba(105,105,105,1));
+}
+.noteedit
+{
+	display:none;
+}
+.input
+{
+	height:100px;
+	width:40%;
+}
